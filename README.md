@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Donquis</h1>
 <h3 align="center">Web Developer | Passionate about code</h3>
 
-- 🔭 I’m currently working on [VillaDonq](https://villadonq-production.up.railway.app/)
+- 🔭 I’m currently working on SISMED
 
 - 👨‍💻 All of my projects are available at [here](https://jdonquis.github.io/)
 
